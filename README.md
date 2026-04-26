@@ -22,7 +22,7 @@ the paper's delete semantics.
 ## Fast Start
 
 ```bash
-cd CCS-Artifact
+cd SAGE-Artifact
 python3 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt

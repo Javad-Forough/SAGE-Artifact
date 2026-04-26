@@ -3,7 +3,7 @@
 ## 1. Set Up Python
 
 ```bash
-cd CCS-Artifact
+cd SAGE-Artifact
 python3 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
